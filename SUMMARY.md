@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Smart contracts](smart-contracts.md)
+* [Token listing](token-listing.md)
 
 ## Social networks
 
