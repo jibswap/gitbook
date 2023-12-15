@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Smart contracts](smart-contracts.md)
-* [Token listing](token-listing.md)
+* [🏷 Welcome](README.md)
+* [👨💻 Smart contracts](smart-contracts.md)
+* [🗓 Token listing](token-listing.md)
+* [🚀 JIB Airdrop](jib-airdrop.md)
 
 ## Social networks
 
