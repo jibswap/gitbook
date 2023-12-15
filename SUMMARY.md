@@ -3,7 +3,7 @@
 * [🏷 Welcome](README.md)
 * [👨💻 Smart contracts](smart-contracts.md)
 * [🗓 Token listing](token-listing.md)
-* [🚀 JIB Airdrop](jib-airdrop.md)
+* [🚀 Airdrop](airdrop.md)
 
 ## Social networks
 

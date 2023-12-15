@@ -2,6 +2,6 @@
 description: Welcome to JIBSWAP official document
 ---
 
-# Welcome
+# 🏷 Welcome
 
 To be updated...
