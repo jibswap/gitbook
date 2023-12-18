@@ -9,4 +9,4 @@
 
 * [X (Twitter)](https://twitter.com/JIBSWAPDEX)
 * [Github](https://github.com/jibswap)
-* [Facebook](https://www.facebook.com/jibswap)
+* [Facebook](https://www.facebook.com/profile.php?id=61554435673737)
