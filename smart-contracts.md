@@ -6,7 +6,7 @@ description: List of deployed smart contract and EOA address
 
 ## Smart contracts
 
-<table><thead><tr><th width="146.33333333333331">Name</th><th width="440">Address</th><th>Blockchain</th></tr></thead><tbody><tr><td>Factory</td><td>0x4BBdA880C5A0cDcEc6510f0450c6C8bC5773D499</td><td><a href="https://exp-l1.jibchain.net/address/0x4BBdA880C5A0cDcEc6510f0450c6C8bC5773D499">JIBCHAIN L1</a></td></tr><tr><td>Router V.2</td><td>0x766F8C9321704DC228D43271AF9b7aAB0E529D38</td><td><a href="https://exp-l1.jibchain.net/address/0x766F8C9321704DC228D43271AF9b7aAB0E529D38">JIBCHAIN L1</a></td></tr><tr><td>WJBC</td><td>0x99999999990FC47611b74827486218f3398A4abD</td><td><a href="https://exp-l1.jibchain.net/address/0x99999999990FC47611b74827486218f3398A4abD">JIBCHAIN L1</a></td></tr></tbody></table>
+<table><thead><tr><th width="146.33333333333331">Name</th><th width="440">Address</th><th>Blockchain</th></tr></thead><tbody><tr><td>Factory</td><td>0x4BBdA880C5A0cDcEc6510f0450c6C8bC5773D499</td><td><a href="https://exp-l1.jibchain.net/address/0x4BBdA880C5A0cDcEc6510f0450c6C8bC5773D499">JIBCHAIN L1</a></td></tr><tr><td>Router V.2</td><td>0x766F8C9321704DC228D43271AF9b7aAB0E529D38</td><td><a href="https://exp-l1.jibchain.net/address/0x766F8C9321704DC228D43271AF9b7aAB0E529D38">JIBCHAIN L1</a></td></tr><tr><td>Multicall3</td><td>0xc0C8C486D1466C57Efe13C2bf000d4c56F47CBdC</td><td><a href="https://exp-l1.jibchain.net/address/0xc0C8C486D1466C57Efe13C2bf000d4c56F47CBdC">JIBCHAIN L1</a></td></tr><tr><td>WJBC</td><td>0x99999999990FC47611b74827486218f3398A4abD</td><td><a href="https://exp-l1.jibchain.net/address/0x99999999990FC47611b74827486218f3398A4abD">JIBCHAIN L1</a></td></tr></tbody></table>
 
 ## EOA
 
