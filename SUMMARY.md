@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏷 Welcome](README.md)
+* [🏷 Welcome to JIBSWAP](README.md)
 * [👨💻 Smart contracts](smart-contracts.md)
 * [🗓 Token listing](token-listing.md)
 * [🚀 Airdrop](airdrop.md)
