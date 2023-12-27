@@ -2,10 +2,10 @@
 
 ## 💰 Core
 
-* [🏷 Welcome to JIBSWAP](README.md)
-* [👨💻 Smart contracts](core/smart-contracts.md)
-* [🗓 Token listing](core/token-listing.md)
-* [🚀 Airdrop](core/airdrop.md)
+* [🏷 Introduction](README.md)
+* [👨💻 Smart contracts](smart-contracts.md)
+* [🗓 Token listing](token-listing.md)
+* [🚀 Airdrop](airdrop.md)
 
 ## 👨💻 Developers
 
