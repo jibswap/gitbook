@@ -3,12 +3,12 @@
 ## 📖 General
 
 * [🏷 Introduction](README.md)
-* [👨💻 Smart contracts](general/smart-contracts.md)
-* [🗓 Token listing](general/token-listing.md)
-* [🚀 Airdrop](general/airdrop.md)
+* [🗓 Token listing](token-listing.md)
+* [🚀 Airdrop](airdrop.md)
 
 ## 👨💻 Developers
 
+* [🐊 Smart contracts](developers/smart-contracts.md)
 * [⚙ Open APIs](developers/open-apis.md)
 
 ## 🌎 Social networks

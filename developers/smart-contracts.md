@@ -2,7 +2,7 @@
 description: List of deployed smart contract and EOA address
 ---
 
-# 👨💻 Smart contracts
+# 🐊 Smart contracts
 
 ## Smart contracts
 
