@@ -1,11 +1,11 @@
 # Table of contents
 
-## 💰 Core
+## 📖 General
 
 * [🏷 Introduction](README.md)
-* [👨💻 Smart contracts](smart-contracts.md)
-* [🗓 Token listing](token-listing.md)
-* [🚀 Airdrop](airdrop.md)
+* [👨💻 Smart contracts](general/smart-contracts.md)
+* [🗓 Token listing](general/token-listing.md)
+* [🚀 Airdrop](general/airdrop.md)
 
 ## 👨💻 Developers
 
