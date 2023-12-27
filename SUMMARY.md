@@ -11,3 +11,7 @@
 * [Github](https://github.com/jibswap)
 * [DefiLlama](https://defillama.com/protocol/jibswap)
 * [Facebook](https://www.facebook.com/profile.php?id=61554435673737)
+
+## Developers
+
+* [Open APIs](developers/open-apis.md)
