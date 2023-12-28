@@ -4,7 +4,9 @@
 
 * [🏷 Introduction](README.md)
 * [🗓 Token listing](token-listing.md)
-* [🚀 Airdrop](airdrop.md)
+* [💧 Airdrop](airdrop.md)
+* [🚀 JIB Token](general/jib-token.md)
+* [👩🌾 Liquidity Mining (Farm)](general/liquidity-mining-farm.md)
 
 ## 👨💻 Developers
 
