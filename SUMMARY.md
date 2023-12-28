@@ -10,6 +10,7 @@
 
 * [🐊 Smart contracts](developers/smart-contracts.md)
 * [⚙ Open APIs](developers/open-apis.md)
+* [✅ Contract verification](developers/contract-verification.md)
 
 ## 🌎 Social networks
 
