@@ -1,3 +1,3 @@
-# 🚀 Airdrop
+# 💧 Airdrop
 
 To be updated...
