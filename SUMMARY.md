@@ -6,7 +6,7 @@
 * [🗓 Token listing](token-listing.md)
 * [💧 Airdrop](airdrop.md)
 * [🚀 JIB Token](general/jib-token.md)
-* [👩🌾 Liquidity Mining](general/liquidity-mining.md)
+* [⛏ Liquidity Mining](general/liquidity-mining-farm.md)
 
 ## 👨💻 Developers
 
