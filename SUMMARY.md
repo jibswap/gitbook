@@ -7,6 +7,7 @@
 * [💧 Airdrop](airdrop.md)
 * [🚀 JIB Token](general/jib-token.md)
 * [⛏ Liquidity Mining](general/liquidity-mining-farm.md)
+* [🧀 Fees](general/fees.md)
 
 ## 👨💻 Developers
 
