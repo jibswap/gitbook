@@ -2,11 +2,11 @@
 description: Welcome to JIBSWAP official document
 ---
 
-# 🏷 Welcome to JIBSWAP
+# 🏷 Introduction
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Jibswap V1</p></figcaption></figure>
 
-**Jibswap** is a decentralized cryptocurrency trading protocol that operates on the JIB Chain. As an Automated Market Maker (AMM) and Decentralized Exchange (DEX), Jibswap offers users a platform for engaging in crypto trading and exchanges in a decentralized manner. The platform is built using a system similar to the Uniswap V2 fork, positioning it within the broader landscape of decentralized finance (DeFi).
+**Jibswap** is a Decentralized Exchange (DEX) using Automated Market Maker (AMM) that operates on the JIB Chain. Jibswap offers users a platform for engaging in crypto trading and exchanges in a decentralized manner. The platform is built using a system on Uniswap V2 forked, positioning it within the broader landscape of decentralized finance (DeFi).
 
 ## **Key features of Jibswap include:**
 
