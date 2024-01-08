@@ -1,3 +1,2 @@
 # ⛏ Liquidity Mining
 
-Coming soon.
